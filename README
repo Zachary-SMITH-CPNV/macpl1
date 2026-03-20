@@ -1,0 +1,27 @@
+1 item
+[
+  
+{
+  
+  
+"requestType": 
+"Meeting Request",
+  
+  
+"requestSubType": 
+"Appointment Scheduling",
+  
+  
+"confidenceScore": 
+"95%",
+  
+  
+"reasoning": 
+"Request type is determined by the subject 'Demande de Rendez-vous' and the body 'Serait-il possible de planifier un rendez-vous la semaine prochaine ?', which refers to scheduling a meeting.",
+  
+  
+"outlookCategory": 
+"Meeting Request"
+  
+}
+]
